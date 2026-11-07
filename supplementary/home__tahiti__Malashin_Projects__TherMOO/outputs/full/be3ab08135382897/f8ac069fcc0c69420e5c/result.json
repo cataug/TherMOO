@@ -1,0 +1,50 @@
+{
+  "metrics": {
+    "fe": 100000,
+    "seconds": 494.10725452698534,
+    "sent": 0,
+    "accepted": 0,
+    "payload_bytes": 0,
+    "hv": 0.34957805145674264,
+    "igd_plus": 0.2269005778650205,
+    "profiles": []
+  },
+  "seconds": 494.1214936639881,
+  "initial_hash": "f3f00f55c27ea409242384acd57f9c2c504faaf8028795579aa9e63cb5c79d9a",
+  "evaluations": 100000,
+  "sent": 0,
+  "accepted": 0,
+  "payload_bytes": 0,
+  "control_seconds": 0.0,
+  "integration_seconds": 0.0,
+  "diagnostic_seconds": 0.07287247700151056,
+  "algorithms": [
+    "SMS"
+  ],
+  "archive_size": 400,
+  "controller": "explicit heuristic; no neural training",
+  "island_execution": "sequential within trial",
+  "status": "complete",
+  "job": {
+    "problem": "LZ09_F6",
+    "method": "SMS",
+    "seed": 11,
+    "block": "main",
+    "m": 0,
+    "d": 0,
+    "budget": 100000,
+    "population": 400,
+    "islands": 4,
+    "composition": "mixed",
+    "interval": 10,
+    "rho": 0.1,
+    "temperature": 1.0,
+    "quality": "rank_crowding",
+    "ablation": "none",
+    "archive": 400,
+    "hv_epsilon": 0.0001,
+    "js_epsilon": 0.02
+  },
+  "fingerprint": "be3ab08135382897",
+  "run_id": "f8ac069fcc0c69420e5c"
+}

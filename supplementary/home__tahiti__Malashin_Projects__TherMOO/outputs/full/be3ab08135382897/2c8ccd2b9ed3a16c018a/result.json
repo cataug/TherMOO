@@ -1,0 +1,50 @@
+{
+  "metrics": {
+    "fe": 100000,
+    "seconds": 68.86248871200951,
+    "sent": 0,
+    "accepted": 0,
+    "payload_bytes": 0,
+    "hv": 0.6141112125580085,
+    "igd_plus": 0.09963522305788458,
+    "profiles": []
+  },
+  "seconds": 68.8721743930364,
+  "initial_hash": "9a2f5347c098ead771465399f4c524b206830fd737ad56df97c9abdd02061a9c",
+  "evaluations": 100000,
+  "sent": 0,
+  "accepted": 0,
+  "payload_bytes": 0,
+  "control_seconds": 0.0,
+  "integration_seconds": 0.0,
+  "diagnostic_seconds": 0.028788499941583723,
+  "algorithms": [
+    "MOEAD"
+  ],
+  "archive_size": 400,
+  "controller": "explicit heuristic; no neural training",
+  "island_execution": "sequential within trial",
+  "status": "complete",
+  "job": {
+    "problem": "LZ09_F3",
+    "method": "MOEAD",
+    "seed": 6,
+    "block": "main",
+    "m": 0,
+    "d": 0,
+    "budget": 100000,
+    "population": 400,
+    "islands": 4,
+    "composition": "mixed",
+    "interval": 10,
+    "rho": 0.1,
+    "temperature": 1.0,
+    "quality": "rank_crowding",
+    "ablation": "none",
+    "archive": 400,
+    "hv_epsilon": 0.0001,
+    "js_epsilon": 0.02
+  },
+  "fingerprint": "be3ab08135382897",
+  "run_id": "2c8ccd2b9ed3a16c018a"
+}

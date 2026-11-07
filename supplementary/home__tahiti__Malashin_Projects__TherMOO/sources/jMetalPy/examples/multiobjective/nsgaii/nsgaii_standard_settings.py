@@ -1,0 +1,51 @@
+from jmetal.algorithm.multiobjective.nsgaii import NSGAII
+from jmetal.operator.crossover import SBXCrossover
+from jmetal.operator.mutation import PolynomialMutation
+from jmetal.problem import ZDT1
+from jmetal.util.plotting import save_plt_to_file
+from jmetal.util.solution import (
+    get_non_dominated_solutions,
+    print_function_values_to_file,
+    print_variables_to_file,
+    read_solutions,
+)
+from jmetal.util.termination_criterion import StoppingByEvaluations
+
+"""
+ Program to  configure and run the NSGA-II algorithm configured with standard settings.
+"""
+if __name__ == "__main__":
+    problem = ZDT1()
+
+    problem.reference_front = read_solutions(filename="resources/reference_fronts/ZDT1.pf")
+
+    max_evaluations = 25000
+    algorithm = NSGAII(
+        problem=problem,
+        population_size=100,
+        offspring_population_size=100,
+        mutation=PolynomialMutation(
+            probability=1.0 / problem.number_of_variables(), distribution_index=20
+        ),
+        crossover=SBXCrossover(probability=1.0, distribution_index=20),
+        termination_criterion=StoppingByEvaluations(max_evaluations=max_evaluations),
+    )
+
+    algorithm.run()
+
+    front = get_non_dominated_solutions(algorithm.result())
+
+    # Save results to file
+    print_function_values_to_file(front, "FUN." + algorithm.label)
+    print_variables_to_file(front, "VAR." + algorithm.label)
+
+    # Save a PNG visualization of the front (and optional HTML if Plotly available)
+    try:
+        png = save_plt_to_file(front, "FUN." + algorithm.label, out_dir=".", html_plotly=True)
+        print(f"Saved front plot to: {png}")
+    except Exception as e:
+        print(f"Warning: could not generate front plot: {e}")
+
+    print(f"Algorithm: {algorithm.get_name()}")
+    print(f"Problem: {problem.name()}")
+    print(f"Computing time: {algorithm.total_computing_time}")

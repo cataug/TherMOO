@@ -1,0 +1,490 @@
+{
+  "ZDT1": {
+    "problem": "ZDT1",
+    "objectives": 2,
+    "points": 1001,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/ZDT1.csv",
+    "sha256": "87dd5f3c5b138e44af562d495030b22b37cab9126f5e2675047308278a4906dd"
+  },
+  "ZDT2": {
+    "problem": "ZDT2",
+    "objectives": 2,
+    "points": 1000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/ZDT2.csv",
+    "sha256": "ae1c74c67ee3fdb2f15816160eb965c15d0be10bc9a95cff3e4ae2489d537b65"
+  },
+  "ZDT3": {
+    "problem": "ZDT3",
+    "objectives": 2,
+    "points": 1000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/ZDT3.csv",
+    "sha256": "a6080cf67daa294e020d2162d77dea0f5bf21c857c680e544b210df4fa0ed09f"
+  },
+  "ZDT4": {
+    "problem": "ZDT4",
+    "objectives": 2,
+    "points": 1000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/ZDT4.csv",
+    "sha256": "8078efe9a69a80514c15dc30c23a8d06f5b47175c715f7184b8f1493a4f6648c"
+  },
+  "ZDT5": {
+    "problem": "ZDT5",
+    "objectives": 2,
+    "points": 31,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZDT5.raw.2D.pf",
+    "sha256": "c4175412d63d7a66297a4ee1a5a627e49d144872108b1e7b9aa8cfbc7d6548ef"
+  },
+  "ZDT6": {
+    "problem": "ZDT6",
+    "objectives": 2,
+    "points": 1000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/ZDT6.csv",
+    "sha256": "8e4a0728ca12ae73ede50d2f4627a48c744ee3e8c593d24146980e150934d324"
+  },
+  "DTLZ1": {
+    "problem": "DTLZ1",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "jMetalPy",
+    "path": "data/reference_fronts/jMetalPy/DTLZ1.3D.pf",
+    "sha256": "8df9e172689c8d6d7e11930749e5afa5d961dc84131f5f0bc1b4b73a1ef180fd"
+  },
+  "DTLZ2": {
+    "problem": "DTLZ2",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "jMetalPy",
+    "path": "data/reference_fronts/jMetalPy/DTLZ2.3D.pf",
+    "sha256": "1ed116158a346d45cd90740f21c631335d96418fa873f94f0c228070a71a151a"
+  },
+  "DTLZ3": {
+    "problem": "DTLZ3",
+    "objectives": 3,
+    "points": 9870,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/DTLZ3.3D.csv",
+    "sha256": "88654e18e5468559280af249417910a3bd7ae3c620e860edcda7c376e35a5413"
+  },
+  "DTLZ4": {
+    "problem": "DTLZ4",
+    "objectives": 3,
+    "points": 9870,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/DTLZ4.3D.csv",
+    "sha256": "88654e18e5468559280af249417910a3bd7ae3c620e860edcda7c376e35a5413"
+  },
+  "DTLZ5": {
+    "problem": "DTLZ5",
+    "objectives": 3,
+    "points": 166500,
+    "provider": "jMetalPy",
+    "path": "data/reference_fronts/jMetalPy/DTLZ5.3D.pf",
+    "sha256": "7d5045669868cd35fbda280306779001424c90aec85cad1f724e27507dd0ab6f"
+  },
+  "DTLZ6": {
+    "problem": "DTLZ6",
+    "objectives": 3,
+    "points": 28000,
+    "provider": "jMetalPy",
+    "path": "data/reference_fronts/jMetalPy/DTLZ6.3D.pf",
+    "sha256": "f6cfe89bcb1cc00cb327d9ccf49e26e9af2628000252a158ffad330a192abb0c"
+  },
+  "DTLZ7": {
+    "problem": "DTLZ7",
+    "objectives": 3,
+    "points": 676,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/DTLZ7.3D.csv",
+    "sha256": "b5db7bba77aa82c74b8876f5a7f5494ba3b3f731ae8e7a47f66574000a1b3848"
+  },
+  "WFG1": {
+    "problem": "WFG1",
+    "objectives": 3,
+    "points": 2000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/WFG1.3D.csv",
+    "sha256": "d6486971be7e3ba542a95f1771a22c0a91403d62308f973671500a7a8d96f78f"
+  },
+  "WFG2": {
+    "problem": "WFG2",
+    "objectives": 3,
+    "points": 2801,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/WFG2.3D.csv",
+    "sha256": "2c00e556f07fb1db63aebebabcf9495278bf07af64f0b6021bd47434f8103fc8"
+  },
+  "WFG3": {
+    "problem": "WFG3",
+    "objectives": 3,
+    "points": 100,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/WFG3.3D.csv",
+    "sha256": "78aaf61ee7dc3757031f999d3f83c8c23876de09e73ddae2e26d51e9634d57bd"
+  },
+  "WFG4": {
+    "problem": "WFG4",
+    "objectives": 3,
+    "points": 9898,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/WFG4.3D.csv",
+    "sha256": "978c42407135ac3de7b7c76d46963992261bbdf60f79188bd09be526f0355c44"
+  },
+  "WFG5": {
+    "problem": "WFG5",
+    "objectives": 3,
+    "points": 9901,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/WFG5.3D.csv",
+    "sha256": "648953c050dcd64e1e3ac14781bd98b7e9435d99556df0333b7efe0651e9188b"
+  },
+  "WFG6": {
+    "problem": "WFG6",
+    "objectives": 3,
+    "points": 9901,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/WFG6.3D.csv",
+    "sha256": "648953c050dcd64e1e3ac14781bd98b7e9435d99556df0333b7efe0651e9188b"
+  },
+  "WFG7": {
+    "problem": "WFG7",
+    "objectives": 3,
+    "points": 9716,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/WFG7.3D.csv",
+    "sha256": "f066ddc850445e3752e9f360d8eb2723228be7ee5ac0b56050a0eadeee87a67e"
+  },
+  "WFG8": {
+    "problem": "WFG8",
+    "objectives": 3,
+    "points": 10009,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/WFG8.3D.csv",
+    "sha256": "fcc23c52327ed6aa2a9f46f1b16998c90a9f1cf2414bce9d8d5736d1381ada66"
+  },
+  "WFG9": {
+    "problem": "WFG9",
+    "objectives": 3,
+    "points": 10201,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/WFG9.3D.csv",
+    "sha256": "b1bc5740d5c5aa356f5da25b23918064770ea72d92dbcce56c13ef3d3a55b4b6"
+  },
+  "LZ09_F1": {
+    "problem": "LZ09_F1",
+    "objectives": 2,
+    "points": 500,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/LZ09_F1.csv",
+    "sha256": "2b1dbce24c61180d381e17da7ac6a4056cb1ea7b5bb48e06f07e6a0b428ada8e"
+  },
+  "LZ09_F2": {
+    "problem": "LZ09_F2",
+    "objectives": 2,
+    "points": 500,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/LZ09_F2.csv",
+    "sha256": "2b1dbce24c61180d381e17da7ac6a4056cb1ea7b5bb48e06f07e6a0b428ada8e"
+  },
+  "LZ09_F3": {
+    "problem": "LZ09_F3",
+    "objectives": 2,
+    "points": 500,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/LZ09_F3.csv",
+    "sha256": "2b1dbce24c61180d381e17da7ac6a4056cb1ea7b5bb48e06f07e6a0b428ada8e"
+  },
+  "LZ09_F4": {
+    "problem": "LZ09_F4",
+    "objectives": 2,
+    "points": 500,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/LZ09_F4.csv",
+    "sha256": "2b1dbce24c61180d381e17da7ac6a4056cb1ea7b5bb48e06f07e6a0b428ada8e"
+  },
+  "LZ09_F5": {
+    "problem": "LZ09_F5",
+    "objectives": 2,
+    "points": 500,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/LZ09_F5.csv",
+    "sha256": "2b1dbce24c61180d381e17da7ac6a4056cb1ea7b5bb48e06f07e6a0b428ada8e"
+  },
+  "LZ09_F6": {
+    "problem": "LZ09_F6",
+    "objectives": 3,
+    "points": 990,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/LZ09_F6.csv",
+    "sha256": "a1f0bf0d81154b35953c233985594d1310b9fd0fce5f6e74508dcccf6c1ea7e3"
+  },
+  "LZ09_F7": {
+    "problem": "LZ09_F7",
+    "objectives": 2,
+    "points": 500,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/LZ09_F7.csv",
+    "sha256": "2b1dbce24c61180d381e17da7ac6a4056cb1ea7b5bb48e06f07e6a0b428ada8e"
+  },
+  "LZ09_F8": {
+    "problem": "LZ09_F8",
+    "objectives": 2,
+    "points": 500,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/LZ09_F8.csv",
+    "sha256": "2b1dbce24c61180d381e17da7ac6a4056cb1ea7b5bb48e06f07e6a0b428ada8e"
+  },
+  "LZ09_F9": {
+    "problem": "LZ09_F9",
+    "objectives": 2,
+    "points": 500,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/LZ09_F9.csv",
+    "sha256": "6564a997113731f5b8011e0d982650a8b7eae834a88ca1958f123bf66d1ccae8"
+  },
+  "UF1": {
+    "problem": "UF1",
+    "objectives": 2,
+    "points": 1000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/UF1.csv",
+    "sha256": "2df52e6c945499d794c37ba6ab9dec3d1051054e48606f2140a037a2a37a7471"
+  },
+  "UF2": {
+    "problem": "UF2",
+    "objectives": 2,
+    "points": 1000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/UF2.csv",
+    "sha256": "d5494bdcac6034ad7e480e75e49cc2569ff7dc56d2f896104f9f5e8e3327e0e4"
+  },
+  "UF3": {
+    "problem": "UF3",
+    "objectives": 2,
+    "points": 1000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/UF3.csv",
+    "sha256": "d5494bdcac6034ad7e480e75e49cc2569ff7dc56d2f896104f9f5e8e3327e0e4"
+  },
+  "UF4": {
+    "problem": "UF4",
+    "objectives": 2,
+    "points": 1000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/UF4.csv",
+    "sha256": "160a7108b0c0f4e71011257506d6edfa62af303f0cf821d561495fbf1bb4bbb3"
+  },
+  "UF5": {
+    "problem": "UF5",
+    "objectives": 2,
+    "points": 21,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/UF5.csv",
+    "sha256": "f751d6154575e3b0597d9c5020cd22425ed37a41d6553fce4506d7695f5a015d"
+  },
+  "UF6": {
+    "problem": "UF6",
+    "objectives": 2,
+    "points": 1000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/UF6.csv",
+    "sha256": "92e61c5f91be38ec6a1e3fc57005df24cf63eb096b204bc0dba3374ee992f2f8"
+  },
+  "UF7": {
+    "problem": "UF7",
+    "objectives": 2,
+    "points": 1000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/UF7.csv",
+    "sha256": "c8bdeec032415b0e0fde7d261e45fb3ed2100257fc29e30a766a5046dcd0c48f"
+  },
+  "UF8": {
+    "problem": "UF8",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/UF8.csv",
+    "sha256": "266ad04cb79429f51eab329580fd1db399bccd9d9d89e0205b7b2bd6dcc9bc30"
+  },
+  "UF9": {
+    "problem": "UF9",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/UF9.csv",
+    "sha256": "f76a77a1cfdf41c30c60dab21d5b72d62b50f2a7dcae022ed016b0fa550ed25d"
+  },
+  "UF10": {
+    "problem": "UF10",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "jMetal",
+    "path": "data/reference_fronts/jMetal/UF10.csv",
+    "sha256": "266ad04cb79429f51eab329580fd1db399bccd9d9d89e0205b7b2bd6dcc9bc30"
+  },
+  "ZCAT1": {
+    "problem": "ZCAT1",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT1.3D.pf",
+    "sha256": "842418375f9cbb37727df0c99df575ab64c40cfb5d322fcc83baba43c5c7adc8"
+  },
+  "ZCAT2": {
+    "problem": "ZCAT2",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT2.3D.pf",
+    "sha256": "1424027c02edd7ddfbf480f71697ce3c23ab8849ed550d0ea355a5a3a87d183c"
+  },
+  "ZCAT3": {
+    "problem": "ZCAT3",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT3.3D.pf",
+    "sha256": "6a080b12ef9b7b3fe1138c21c88f3a8a4fcf37b73702674a4545c15600f61a8b"
+  },
+  "ZCAT4": {
+    "problem": "ZCAT4",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT4.3D.pf",
+    "sha256": "f927913661d242f54a9620f5d03dc826722fc069a8da2c033446283fd4a0ab42"
+  },
+  "ZCAT5": {
+    "problem": "ZCAT5",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT5.3D.pf",
+    "sha256": "003bdcd63f9e6275a749e134cda2bcbd1e10681e641bf7e63b0561076c893fc7"
+  },
+  "ZCAT6": {
+    "problem": "ZCAT6",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT6.3D.pf",
+    "sha256": "72c4610ede9ceccaa67acbef15a3d35b7b8c3b4afa60d095a457a456f5d32a31"
+  },
+  "ZCAT7": {
+    "problem": "ZCAT7",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT7.3D.pf",
+    "sha256": "57fcf88308a732f576217d7dfba4e25a1642e1256959fdc9fc3a70d3eeb79d6a"
+  },
+  "ZCAT8": {
+    "problem": "ZCAT8",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT8.3D.pf",
+    "sha256": "65c80216d48b8f9dc1f90c6f7a8204c19866b874b1925ac527c7f40037b729b6"
+  },
+  "ZCAT9": {
+    "problem": "ZCAT9",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT9.3D.pf",
+    "sha256": "a67dadf71998d17d1ef5c31c2bd10414fea5931e73b91af2c5d5584d0d73117a"
+  },
+  "ZCAT10": {
+    "problem": "ZCAT10",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT10.3D.pf",
+    "sha256": "994dc8830569c883957ea4a338c7a6b0bd6671ed82f8600ed09b0a606893d46b"
+  },
+  "ZCAT11": {
+    "problem": "ZCAT11",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT11.3D.pf",
+    "sha256": "aee66830e89765a50478ffa071ca854cd00de7bbf18ec4204af8d045fc768881"
+  },
+  "ZCAT12": {
+    "problem": "ZCAT12",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT12.3D.pf",
+    "sha256": "b1bde1c0b636d7e507f277b5a2ec50c28d39fd1955fc7b38763f93e3c5a0fca0"
+  },
+  "ZCAT13": {
+    "problem": "ZCAT13",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT13.3D.pf",
+    "sha256": "79d788c64994bc916dd045a77adce18b06f02582d6d1042f85b29bd7f185a1f0"
+  },
+  "ZCAT14": {
+    "problem": "ZCAT14",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT14.3D.pf",
+    "sha256": "ab74445de21eabd4ab4631d467fbfb58621d4819ff036f32b4847cec717df7cf"
+  },
+  "ZCAT15": {
+    "problem": "ZCAT15",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT15.3D.pf",
+    "sha256": "9b204314daf82a4fe17942e83b0cca314e820db3237a80a370bad4d12fb76f81"
+  },
+  "ZCAT16": {
+    "problem": "ZCAT16",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT16.3D.pf",
+    "sha256": "b6f20248b62a9e97c6de8276987b59178d5881fb301163d2d6b37877e1d19bee"
+  },
+  "ZCAT17": {
+    "problem": "ZCAT17",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT17.3D.pf",
+    "sha256": "43407146801d7b64fffe61e4b82ae87753cd96c5aa9deec8531eef67f93563ca"
+  },
+  "ZCAT18": {
+    "problem": "ZCAT18",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT18.3D.pf",
+    "sha256": "a7c651f445f8bb5c26121e94472b067cbd39a04bcce4f792c1714afe37d990a7"
+  },
+  "ZCAT19": {
+    "problem": "ZCAT19",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT19.3D.pf",
+    "sha256": "e9f87b2f9933d31bd9265cd69a34ef9726abac4f526d87e772d4f1c93ca31882"
+  },
+  "ZCAT20": {
+    "problem": "ZCAT20",
+    "objectives": 3,
+    "points": 10000,
+    "provider": "generated",
+    "path": "data/reference_fronts/generated/ZCAT20.3D.pf",
+    "sha256": "ea7559fe899379f547a56f71c07c8bbbee6e57d6dfa1c0c92afcd6373ab89f92"
+  }
+}

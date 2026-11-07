@@ -1,0 +1,90 @@
+
+[RUN] git clone --depth 1 --no-tags https://github.com/jMetal/jMetalPy.git /home/tahiti/Malashin_Projects/TherMOO/sources/jMetalPy
+Cloning into '/home/tahiti/Malashin_Projects/TherMOO/sources/jMetalPy'...
+
+[RUN] git clone --depth 1 --no-tags https://github.com/anyoptimization/pymoo.git /home/tahiti/Malashin_Projects/TherMOO/sources/pymoo
+Cloning into '/home/tahiti/Malashin_Projects/TherMOO/sources/pymoo'...
+
+[RUN] git clone --depth 1 --no-tags https://github.com/evo-mx/ZCAT.git /home/tahiti/Malashin_Projects/TherMOO/sources/ZCAT
+Cloning into '/home/tahiti/Malashin_Projects/TherMOO/sources/ZCAT'...
+
+[RUN] git clone --depth 1 --no-tags --filter=blob:none --sparse https://github.com/jMetal/jMetal.git /home/tahiti/Malashin_Projects/TherMOO/sources/jMetal
+Cloning into '/home/tahiti/Malashin_Projects/TherMOO/sources/jMetal'...
+
+[RUN] git -C /home/tahiti/Malashin_Projects/TherMOO/sources/jMetal sparse-checkout set resources/referenceFronts
+[FRONTS] jMetalPy: 154 файлов
+[FRONTS] jMetal: 156 файлов
+
+[RUN] /usr/bin/gcc -O2 -std=gnu11 -I /home/tahiti/Malashin_Projects/TherMOO/sources/ZCAT/src /home/tahiti/Malashin_Projects/TherMOO/build/generate_zcat.c /home/tahiti/Malashin_Projects/TherMOO/sources/ZCAT/src/zcat-F.c /home/tahiti/Malashin_Projects/TherMOO/sources/ZCAT/src/zcat-Z.c /home/tahiti/Malashin_Projects/TherMOO/sources/ZCAT/src/zcat-benchmark.c /home/tahiti/Malashin_Projects/TherMOO/sources/ZCAT/src/zcat-g.c /home/tahiti/Malashin_Projects/TherMOO/sources/ZCAT/src/zcat-rnd-opt-sol.c /home/tahiti/Malashin_Projects/TherMOO/sources/ZCAT/src/zcat-tools.c -lm -o /home/tahiti/Malashin_Projects/TherMOO/build/generate_zcat
+
+[RUN] /home/tahiti/Malashin_Projects/TherMOO/build/generate_zcat 2 5000 /home/tahiti/Malashin_Projects/TherMOO/data/reference_fronts/generated
+[ZCAT] ZCAT1: 5000 points
+[ZCAT] ZCAT2: 5000 points
+[ZCAT] ZCAT3: 5000 points
+[ZCAT] ZCAT4: 5000 points
+[ZCAT] ZCAT5: 5000 points
+[ZCAT] ZCAT6: 5000 points
+[ZCAT] ZCAT7: 5000 points
+[ZCAT] ZCAT8: 5000 points
+[ZCAT] ZCAT9: 5000 points
+[ZCAT] ZCAT10: 5000 points
+[ZCAT] ZCAT11: 5000 points
+[ZCAT] ZCAT12: 5000 points
+[ZCAT] ZCAT13: 5000 points
+[ZCAT] ZCAT14: 5000 points
+[ZCAT] ZCAT15: 5000 points
+[ZCAT] ZCAT16: 5000 points
+[ZCAT] ZCAT17: 5000 points
+[ZCAT] ZCAT18: 5000 points
+[ZCAT] ZCAT19: 5000 points
+[ZCAT] ZCAT20: 5000 points
+
+[RUN] /home/tahiti/Malashin_Projects/TherMOO/build/generate_zcat 3 10000 /home/tahiti/Malashin_Projects/TherMOO/data/reference_fronts/generated
+[ZCAT] ZCAT1: 10000 points
+[ZCAT] ZCAT2: 10000 points
+[ZCAT] ZCAT3: 10000 points
+[ZCAT] ZCAT4: 10000 points
+[ZCAT] ZCAT5: 10000 points
+[ZCAT] ZCAT6: 10000 points
+[ZCAT] ZCAT7: 10000 points
+[ZCAT] ZCAT8: 10000 points
+[ZCAT] ZCAT9: 10000 points
+[ZCAT] ZCAT10: 10000 points
+[ZCAT] ZCAT11: 10000 points
+[ZCAT] ZCAT12: 10000 points
+[ZCAT] ZCAT13: 10000 points
+[ZCAT] ZCAT14: 10000 points
+[ZCAT] ZCAT15: 10000 points
+[ZCAT] ZCAT16: 10000 points
+[ZCAT] ZCAT17: 10000 points
+[ZCAT] ZCAT18: 10000 points
+[ZCAT] ZCAT19: 10000 points
+[ZCAT] ZCAT20: 10000 points
+
+[RUN] /home/tahiti/Malashin_Projects/TherMOO/build/generate_zcat 5 20000 /home/tahiti/Malashin_Projects/TherMOO/data/reference_fronts/generated
+[ZCAT] ZCAT1: 20000 points
+[ZCAT] ZCAT2: 20000 points
+[ZCAT] ZCAT3: 20000 points
+[ZCAT] ZCAT4: 20000 points
+[ZCAT] ZCAT5: 20000 points
+[ZCAT] ZCAT6: 20000 points
+[ZCAT] ZCAT7: 20000 points
+[ZCAT] ZCAT8: 20000 points
+[ZCAT] ZCAT9: 20000 points
+[ZCAT] ZCAT10: 20000 points
+[ZCAT] ZCAT11: 20000 points
+[ZCAT] ZCAT12: 20000 points
+[ZCAT] ZCAT13: 20000 points
+[ZCAT] ZCAT14: 20000 points
+[ZCAT] ZCAT15: 20000 points
+[ZCAT] ZCAT16: 20000 points
+[ZCAT] ZCAT17: 20000 points
+[ZCAT] ZCAT18: 20000 points
+[ZCAT] ZCAT19: 20000 points
+[ZCAT] ZCAT20: 20000 points
+
+[READY] Main reference fronts: 61/61
+[READY] Reference-front files: 371
+[ENV] {"numpy": "1.26.4", "scipy": "1.14.1", "pandas": "2.2.3", "matplotlib": "3.9.2", "pymoo": null, "jmetalpy": null, "torch": "2.6.0+cu124"}
+[ROOT] /home/tahiti/Malashin_Projects/TherMOO
+[MANIFEST] reports/download_manifest.json

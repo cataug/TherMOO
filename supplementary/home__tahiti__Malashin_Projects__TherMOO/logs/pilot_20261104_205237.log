@@ -1,0 +1,412 @@
+[QUEUE] 172 trials, workers=4, output=pilot, fingerprint=be3ab08135382897
+[1/172] pilot ZDT1 M=2 D=30 GDE3 seed=0: complete 0.32s
+[2/172] pilot ZDT1 M=2 D=30 NSGA2 seed=0: complete 0.37s
+[3/172] pilot ZDT1 M=2 D=30 MOEAD seed=0: complete 5.04s
+[4/172] pilot ZDT1 M=2 D=30 NO_MIG seed=0: complete 4.88s
+[5/172] pilot ZDT1 M=2 D=30 RANDOM seed=0: complete 4.87s
+[6/172] pilot ZDT1 M=2 D=30 ELITE seed=0: complete 4.83s
+[7/172] pilot ZDT1 M=2 D=30 HV_GATE seed=0: complete 4.82s
+[8/172] pilot ZDT1 M=2 D=30 CROWDING seed=0: complete 4.87s
+[9/172] pilot ZDT3 M=2 D=30 NSGA2 seed=0: complete 0.37s
+[10/172] pilot ZDT3 M=2 D=30 GDE3 seed=0: complete 0.30s
+[11/172] pilot ZDT1 M=2 D=30 FULL seed=0: complete 4.83s
+[12/172] pilot ZDT3 M=2 D=30 MOEAD seed=0: complete 5.22s
+[13/172] pilot ZDT3 M=2 D=30 NO_MIG seed=0: complete 4.89s
+[14/172] pilot ZDT3 M=2 D=30 RANDOM seed=0: complete 4.91s
+[15/172] pilot ZDT3 M=2 D=30 ELITE seed=0: complete 4.88s
+[16/172] pilot ZDT3 M=2 D=30 HV_GATE seed=0: complete 4.87s
+[LIVE] completed=16/172 active/queued=8 elapsed=0.4 min
+[17/172] pilot ZDT3 M=2 D=30 CROWDING seed=0: complete 4.87s
+[18/172] pilot DTLZ2 M=3 D=12 NSGA2 seed=0: complete 0.50s
+[19/172] pilot ZDT3 M=2 D=30 FULL seed=0: complete 4.88s
+[20/172] pilot DTLZ2 M=3 D=12 GDE3 seed=0: complete 0.44s
+[21/172] pilot ZDT1 M=2 D=30 SMS seed=0: complete 34.82s
+[22/172] pilot DTLZ2 M=3 D=12 MOEAD seed=0: complete 6.01s
+[23/172] pilot DTLZ2 M=3 D=12 NO_MIG seed=0: complete 5.46s
+[24/172] pilot DTLZ2 M=3 D=12 RANDOM seed=0: complete 5.43s
+[25/172] pilot ZDT3 M=2 D=30 SMS seed=0: complete 34.65s
+[26/172] pilot DTLZ2 M=3 D=12 ELITE seed=0: complete 5.50s
+[27/172] pilot DTLZ2 M=3 D=12 HV_GATE seed=0: complete 5.41s
+[28/172] pilot DTLZ7 M=3 D=22 NSGA2 seed=0: complete 0.34s
+[29/172] pilot DTLZ2 M=3 D=12 CROWDING seed=0: complete 5.44s
+[LIVE] completed=29/172 active/queued=8 elapsed=0.9 min
+[30/172] pilot DTLZ7 M=3 D=22 GDE3 seed=0: complete 0.32s
+[31/172] pilot DTLZ2 M=3 D=12 FULL seed=0: complete 5.50s
+[32/172] pilot DTLZ7 M=3 D=22 MOEAD seed=0: complete 5.30s
+[33/172] pilot DTLZ7 M=3 D=22 NO_MIG seed=0: complete 5.03s
+[34/172] pilot DTLZ7 M=3 D=22 RANDOM seed=0: complete 4.94s
+[35/172] pilot DTLZ7 M=3 D=22 ELITE seed=0: complete 5.05s
+[36/172] pilot DTLZ7 M=3 D=22 HV_GATE seed=0: complete 4.93s
+[37/172] pilot DTLZ7 M=3 D=22 CROWDING seed=0: complete 5.02s
+[38/172] pilot WFG1 M=3 D=24 NSGA2 seed=0: complete 0.41s
+[39/172] pilot DTLZ2 M=3 D=12 SMS seed=0: complete 36.58s
+[40/172] pilot DTLZ7 M=3 D=22 FULL seed=0: complete 4.93s
+[41/172] pilot WFG1 M=3 D=24 GDE3 seed=0: complete 0.35s
+[42/172] pilot WFG1 M=3 D=24 NO_MIG seed=0: complete 5.72s
+[43/172] pilot WFG1 M=3 D=24 MOEAD seed=0: complete 6.95s
+[LIVE] completed=43/172 active/queued=8 elapsed=1.3 min
+[44/172] pilot WFG1 M=3 D=24 RANDOM seed=0: complete 5.80s
+[45/172] pilot WFG1 M=3 D=24 ELITE seed=0: complete 5.85s
+[46/172] pilot WFG1 M=3 D=24 HV_GATE seed=0: complete 5.75s
+[47/172] pilot WFG1 M=3 D=24 CROWDING seed=0: complete 5.84s
+[48/172] pilot WFG9 M=3 D=24 NSGA2 seed=0: complete 0.60s
+[49/172] pilot DTLZ7 M=3 D=22 SMS seed=0: complete 35.59s
+[50/172] pilot WFG9 M=3 D=24 GDE3 seed=0: complete 0.49s
+[51/172] pilot WFG1 M=3 D=24 FULL seed=0: complete 5.74s
+[52/172] pilot WFG1 M=3 D=24 SMS seed=0: complete 37.35s
+[LIVE] completed=52/172 active/queued=8 elapsed=1.7 min
+[53/172] pilot WFG9 M=3 D=24 NO_MIG seed=0: complete 16.93s
+[54/172] pilot WFG9 M=3 D=24 MOEAD seed=0: complete 28.91s
+[55/172] pilot WFG9 M=3 D=24 RANDOM seed=0: complete 16.88s
+[56/172] pilot WFG9 M=3 D=24 ELITE seed=0: complete 16.89s
+[57/172] pilot WFG9 M=3 D=24 HV_GATE seed=0: complete 17.15s
+[LIVE] completed=57/172 active/queued=8 elapsed=2.2 min
+[58/172] pilot LZ09_F1 M=2 D=30 NSGA2 seed=0: complete 0.53s
+[59/172] pilot LZ09_F1 M=2 D=30 MOEAD seed=0: complete 5.08s
+[60/172] pilot LZ09_F1 M=2 D=30 GDE3 seed=0: complete 0.46s
+[61/172] pilot WFG9 M=3 D=24 CROWDING seed=0: complete 16.91s
+[62/172] pilot WFG9 M=3 D=24 FULL seed=0: complete 16.85s
+[63/172] pilot LZ09_F1 M=2 D=30 NO_MIG seed=0: complete 4.86s
+[64/172] pilot LZ09_F1 M=2 D=30 RANDOM seed=0: complete 4.86s
+[65/172] pilot WFG9 M=3 D=24 SMS seed=0: complete 59.55s
+[66/172] pilot LZ09_F1 M=2 D=30 ELITE seed=0: complete 4.84s
+[67/172] pilot LZ09_F1 M=2 D=30 HV_GATE seed=0: complete 4.86s
+[68/172] pilot UF8 M=3 D=30 NSGA2 seed=0: complete 0.43s
+[69/172] pilot LZ09_F1 M=2 D=30 CROWDING seed=0: complete 5.00s
+[70/172] pilot UF8 M=3 D=30 GDE3 seed=0: complete 0.37s
+[71/172] pilot LZ09_F1 M=2 D=30 FULL seed=0: complete 4.83s
+[72/172] pilot UF8 M=3 D=30 MOEAD seed=0: complete 5.09s
+[73/172] pilot UF8 M=3 D=30 NO_MIG seed=0: complete 4.80s
+[LIVE] completed=73/172 active/queued=8 elapsed=2.6 min
+[74/172] pilot UF8 M=3 D=30 RANDOM seed=0: complete 4.89s
+[75/172] pilot UF8 M=3 D=30 ELITE seed=0: complete 4.83s
+[76/172] pilot UF8 M=3 D=30 HV_GATE seed=0: complete 4.87s
+[77/172] pilot UF8 M=3 D=30 CROWDING seed=0: complete 4.88s
+[78/172] pilot ZCAT14 M=3 D=30 NSGA2 seed=0: complete 0.44s
+[79/172] pilot UF8 M=3 D=30 FULL seed=0: complete 4.82s
+[80/172] pilot ZCAT14 M=3 D=30 GDE3 seed=0: complete 0.37s
+[81/172] pilot ZCAT14 M=3 D=30 MOEAD seed=0: complete 4.99s
+[82/172] pilot LZ09_F1 M=2 D=30 SMS seed=0: complete 34.75s
+[83/172] pilot ZCAT14 M=3 D=30 NO_MIG seed=0: complete 4.77s
+[84/172] pilot ZCAT14 M=3 D=30 RANDOM seed=0: complete 4.88s
+[85/172] pilot ZCAT14 M=3 D=30 ELITE seed=0: complete 4.79s
+[86/172] pilot ZCAT14 M=3 D=30 HV_GATE seed=0: complete 4.84s
+[LIVE] completed=86/172 active/queued=8 elapsed=3.1 min
+[87/172] pilot ZCAT14 M=3 D=30 CROWDING seed=0: complete 4.79s
+[88/172] pilot ZCAT14 M=3 D=30 FULL seed=0: complete 4.85s
+[89/172] pilot ZCAT20 M=3 D=30 NSGA2 seed=0: complete 0.43s
+[90/172] pilot UF8 M=3 D=30 SMS seed=0: complete 35.44s
+[91/172] pilot ZCAT20 M=3 D=30 GDE3 seed=0: complete 0.34s
+[92/172] pilot ZCAT20 M=3 D=30 MOEAD seed=0: complete 5.17s
+[93/172] pilot ZCAT20 M=3 D=30 NO_MIG seed=0: complete 4.79s
+[94/172] pilot ZCAT20 M=3 D=30 ELITE seed=0: complete 4.81s
+[95/172] pilot ZCAT20 M=3 D=30 RANDOM seed=0: complete 4.88s
+[96/172] pilot ZCAT20 M=3 D=30 HV_GATE seed=0: complete 4.78s
+[97/172] pilot ZCAT20 M=3 D=30 CROWDING seed=0: complete 4.88s
+[98/172] pilot DTLZ2 M=5 D=14 NSGA2 seed=0: complete 0.81s
+[99/172] pilot ZCAT14 M=3 D=30 SMS seed=0: complete 34.77s
+[100/172] pilot DTLZ2 M=5 D=14 GDE3 seed=0: complete 0.86s
+[101/172] pilot ZCAT20 M=3 D=30 FULL seed=0: complete 4.77s
+[102/172] pilot DTLZ2 M=5 D=14 MOEAD seed=0: complete 6.87s
+[LIVE] completed=102/172 active/queued=8 elapsed=3.5 min
+[103/172] pilot ZCAT20 M=3 D=30 SMS seed=0: complete 35.21s
+[LIVE] completed=103/172 active/queued=8 elapsed=4.0 min
+[104/172] pilot DTLZ2 M=5 D=14 NO_MIG seed=0: complete 32.03s
+[105/172] pilot DTLZ2 M=5 D=14 RANDOM seed=0: complete 30.88s
+[106/172] pilot DTLZ2 M=5 D=14 ELITE seed=0: complete 31.45s
+[LIVE] completed=106/172 active/queued=8 elapsed=4.4 min
+[107/172] pilot DTLZ2 M=5 D=14 HV_GATE seed=0: complete 32.10s
+[108/172] pilot DTLZ2 M=5 D=14 CROWDING seed=0: complete 31.20s
+[109/172] pilot DTLZ2 M=5 D=14 NSGA3 seed=0: complete 1.60s
+[110/172] pilot DTLZ2 M=5 D=14 RVEA seed=0: complete 1.02s
+[111/172] pilot DTLZ7 M=5 D=24 NSGA2 seed=0: complete 0.84s
+[112/172] pilot DTLZ7 M=5 D=24 GDE3 seed=0: complete 0.78s
+[113/172] pilot DTLZ7 M=5 D=24 MOEAD seed=0: complete 6.03s
+[114/172] pilot DTLZ2 M=5 D=14 FULL seed=0: complete 32.24s
+[LIVE] completed=114/172 active/queued=8 elapsed=4.9 min
+[115/172] pilot DTLZ7 M=5 D=24 NO_MIG seed=0: complete 12.53s
+[116/172] pilot DTLZ7 M=5 D=24 RANDOM seed=0: complete 15.27s
+[117/172] pilot DTLZ7 M=5 D=24 ELITE seed=0: complete 13.54s
+[118/172] pilot DTLZ7 M=5 D=24 HV_GATE seed=0: complete 12.63s
+[119/172] pilot DTLZ7 M=5 D=24 CROWDING seed=0: complete 13.93s
+[LIVE] completed=119/172 active/queued=8 elapsed=5.3 min
+[120/172] pilot DTLZ7 M=5 D=24 NSGA3 seed=0: complete 1.65s
+[121/172] pilot DTLZ7 M=5 D=24 RVEA seed=0: complete 0.84s
+[122/172] pilot WFG4 M=5 D=28 NSGA2 seed=0: complete 0.99s
+[123/172] pilot DTLZ7 M=5 D=24 FULL seed=0: complete 12.55s
+[124/172] pilot WFG4 M=5 D=28 GDE3 seed=0: complete 1.03s
+[125/172] pilot WFG4 M=5 D=28 MOEAD seed=0: complete 8.07s
+[LIVE] completed=125/172 active/queued=8 elapsed=5.8 min
+[126/172] pilot WFG4 M=5 D=28 NO_MIG seed=0: complete 19.41s
+[127/172] pilot WFG4 M=5 D=28 RANDOM seed=0: complete 22.14s
+[LIVE] completed=127/172 active/queued=8 elapsed=6.2 min
+[128/172] pilot WFG4 M=5 D=28 ELITE seed=0: complete 19.05s
+[LIVE] completed=128/172 active/queued=8 elapsed=6.7 min
+[129/172] pilot WFG4 M=5 D=28 HV_GATE seed=0: complete 19.50s
+[LIVE] completed=129/172 active/queued=8 elapsed=7.2 min
+[130/172] pilot WFG4 M=5 D=28 CROWDING seed=0: complete 23.58s
+[131/172] pilot WFG4 M=5 D=28 FULL seed=0: complete 19.44s
+[132/172] pilot DTLZ7 M=5 D=24 SMS seed=0: complete 180.90s
+[133/172] pilot WFG4 M=5 D=28 NSGA3 seed=0: complete 1.98s
+[LIVE] completed=133/172 active/queued=8 elapsed=7.6 min
+[134/172] pilot WFG4 M=5 D=28 RVEA seed=0: complete 1.20s
+[135/172] pilot WFG9 M=5 D=28 NSGA2 seed=0: complete 1.04s
+[136/172] pilot WFG9 M=5 D=28 GDE3 seed=0: complete 0.99s
+[LIVE] completed=136/172 active/queued=8 elapsed=8.1 min
+[137/172] pilot WFG9 M=5 D=28 MOEAD seed=0: complete 31.88s
+[LIVE] completed=137/172 active/queued=8 elapsed=8.5 min
+[LIVE] completed=137/172 active/queued=8 elapsed=8.9 min
+[138/172] pilot WFG9 M=5 D=28 NO_MIG seed=0: complete 49.23s
+[LIVE] completed=138/172 active/queued=8 elapsed=9.4 min
+[139/172] pilot WFG9 M=5 D=28 RANDOM seed=0: complete 49.04s
+[LIVE] completed=139/172 active/queued=8 elapsed=9.9 min
+[LIVE] completed=139/172 active/queued=8 elapsed=10.3 min
+[140/172] pilot WFG9 M=5 D=28 ELITE seed=0: complete 49.15s
+[LIVE] completed=140/172 active/queued=8 elapsed=10.8 min
+[LIVE] completed=140/172 active/queued=8 elapsed=11.2 min
+[141/172] pilot WFG9 M=5 D=28 HV_GATE seed=0: complete 49.30s
+[LIVE] completed=141/172 active/queued=8 elapsed=11.7 min
+[LIVE] completed=141/172 active/queued=8 elapsed=12.1 min
+[142/172] pilot WFG9 M=5 D=28 CROWDING seed=0: complete 48.88s
+[LIVE] completed=142/172 active/queued=8 elapsed=12.6 min
+[LIVE] completed=142/172 active/queued=8 elapsed=13.0 min
+[143/172] pilot WFG9 M=5 D=28 FULL seed=0: complete 48.92s
+[144/172] pilot WFG9 M=5 D=28 NSGA3 seed=0: complete 1.91s
+[145/172] pilot WFG9 M=5 D=28 RVEA seed=0: complete 1.15s
+[146/172] pilot ZCAT14 M=5 D=50 NSGA2 seed=0: complete 0.86s
+[147/172] pilot ZCAT14 M=5 D=50 MOEAD seed=0: complete 5.42s
+[148/172] pilot ZCAT14 M=5 D=50 GDE3 seed=0: complete 0.78s
+[LIVE] completed=148/172 active/queued=8 elapsed=13.5 min
+[LIVE] completed=148/172 active/queued=8 elapsed=13.9 min
+[LIVE] completed=148/172 active/queued=8 elapsed=14.3 min
+[LIVE] completed=148/172 active/queued=8 elapsed=14.7 min
+[LIVE] completed=148/172 active/queued=8 elapsed=15.1 min
+[LIVE] completed=148/172 active/queued=8 elapsed=15.6 min
+[LIVE] completed=148/172 active/queued=8 elapsed=16.0 min
+[LIVE] completed=148/172 active/queued=8 elapsed=16.4 min
+[LIVE] completed=148/172 active/queued=8 elapsed=16.8 min
+[LIVE] completed=148/172 active/queued=8 elapsed=17.2 min
+[LIVE] completed=148/172 active/queued=8 elapsed=17.6 min
+[LIVE] completed=148/172 active/queued=8 elapsed=18.1 min
+[LIVE] completed=148/172 active/queued=8 elapsed=18.5 min
+[LIVE] completed=148/172 active/queued=8 elapsed=18.9 min
+[LIVE] completed=148/172 active/queued=8 elapsed=19.3 min
+[LIVE] completed=148/172 active/queued=8 elapsed=19.7 min
+[LIVE] completed=148/172 active/queued=8 elapsed=20.1 min
+[LIVE] completed=148/172 active/queued=8 elapsed=20.6 min
+[LIVE] completed=148/172 active/queued=8 elapsed=21.0 min
+[LIVE] completed=148/172 active/queued=8 elapsed=21.4 min
+[LIVE] completed=148/172 active/queued=8 elapsed=21.8 min
+[LIVE] completed=148/172 active/queued=8 elapsed=22.2 min
+[LIVE] completed=148/172 active/queued=8 elapsed=22.6 min
+[LIVE] completed=148/172 active/queued=8 elapsed=23.1 min
+[LIVE] completed=148/172 active/queued=8 elapsed=23.5 min
+[LIVE] completed=148/172 active/queued=8 elapsed=23.9 min
+[LIVE] completed=148/172 active/queued=8 elapsed=24.3 min
+[LIVE] completed=148/172 active/queued=8 elapsed=24.7 min
+[LIVE] completed=148/172 active/queued=8 elapsed=25.1 min
+[LIVE] completed=148/172 active/queued=8 elapsed=25.6 min
+[149/172] pilot ZCAT14 M=5 D=50 SMS seed=0: complete 750.98s
+[LIVE] completed=149/172 active/queued=8 elapsed=26.0 min
+[150/172] pilot ZCAT14 M=5 D=50 NO_MIG seed=0: complete 18.38s
+[151/172] pilot ZCAT14 M=5 D=50 RANDOM seed=0: complete 17.76s
+[LIVE] completed=151/172 active/queued=8 elapsed=26.4 min
+[152/172] pilot ZCAT14 M=5 D=50 ELITE seed=0: complete 18.15s
+[LIVE] completed=152/172 active/queued=8 elapsed=26.9 min
+[153/172] pilot ZCAT14 M=5 D=50 HV_GATE seed=0: complete 18.35s
+[154/172] pilot ZCAT14 M=5 D=50 CROWDING seed=0: complete 15.65s
+[LIVE] completed=154/172 active/queued=8 elapsed=27.4 min
+[155/172] pilot ZCAT14 M=5 D=50 FULL seed=0: complete 18.43s
+[156/172] pilot ZCAT14 M=5 D=50 NSGA3 seed=0: complete 1.55s
+[157/172] pilot ZCAT14 M=5 D=50 RVEA seed=0: complete 0.87s
+[158/172] pilot ZCAT20 M=5 D=50 NSGA2 seed=0: complete 0.83s
+[159/172] pilot ZCAT20 M=5 D=50 MOEAD seed=0: complete 5.52s
+[160/172] pilot ZCAT20 M=5 D=50 GDE3 seed=0: complete 0.75s
+[LIVE] completed=160/172 active/queued=8 elapsed=27.8 min
+[LIVE] completed=160/172 active/queued=8 elapsed=28.3 min
+[LIVE] completed=160/172 active/queued=8 elapsed=28.7 min
+[LIVE] completed=160/172 active/queued=8 elapsed=29.1 min
+[LIVE] completed=160/172 active/queued=8 elapsed=29.5 min
+[LIVE] completed=160/172 active/queued=8 elapsed=29.9 min
+[LIVE] completed=160/172 active/queued=8 elapsed=30.3 min
+[LIVE] completed=160/172 active/queued=8 elapsed=30.8 min
+[LIVE] completed=160/172 active/queued=8 elapsed=31.2 min
+[LIVE] completed=160/172 active/queued=8 elapsed=31.6 min
+[LIVE] completed=160/172 active/queued=8 elapsed=32.0 min
+[LIVE] completed=160/172 active/queued=8 elapsed=32.4 min
+[LIVE] completed=160/172 active/queued=8 elapsed=32.8 min
+[LIVE] completed=160/172 active/queued=8 elapsed=33.3 min
+[LIVE] completed=160/172 active/queued=8 elapsed=33.7 min
+[LIVE] completed=160/172 active/queued=8 elapsed=34.1 min
+[LIVE] completed=160/172 active/queued=8 elapsed=34.5 min
+[LIVE] completed=160/172 active/queued=8 elapsed=34.9 min
+[LIVE] completed=160/172 active/queued=8 elapsed=35.3 min
+[LIVE] completed=160/172 active/queued=8 elapsed=35.8 min
+[LIVE] completed=160/172 active/queued=8 elapsed=36.2 min
+[LIVE] completed=160/172 active/queued=8 elapsed=36.6 min
+[LIVE] completed=160/172 active/queued=8 elapsed=37.0 min
+[LIVE] completed=160/172 active/queued=8 elapsed=37.4 min
+[LIVE] completed=160/172 active/queued=8 elapsed=37.8 min
+[LIVE] completed=160/172 active/queued=8 elapsed=38.3 min
+[LIVE] completed=160/172 active/queued=8 elapsed=38.7 min
+[LIVE] completed=160/172 active/queued=8 elapsed=39.1 min
+[LIVE] completed=160/172 active/queued=8 elapsed=39.5 min
+[LIVE] completed=160/172 active/queued=8 elapsed=39.9 min
+[LIVE] completed=160/172 active/queued=8 elapsed=40.3 min
+[LIVE] completed=160/172 active/queued=8 elapsed=40.8 min
+[LIVE] completed=160/172 active/queued=8 elapsed=41.2 min
+[LIVE] completed=160/172 active/queued=8 elapsed=41.6 min
+[LIVE] completed=160/172 active/queued=8 elapsed=42.0 min
+[LIVE] completed=160/172 active/queued=8 elapsed=42.4 min
+[LIVE] completed=160/172 active/queued=8 elapsed=42.8 min
+[LIVE] completed=160/172 active/queued=8 elapsed=43.3 min
+[LIVE] completed=160/172 active/queued=8 elapsed=43.7 min
+[LIVE] completed=160/172 active/queued=8 elapsed=44.1 min
+[161/172] pilot ZCAT20 M=5 D=50 SMS seed=0: complete 990.10s
+[162/172] pilot ZCAT20 M=5 D=50 NO_MIG seed=0: complete 16.88s
+[LIVE] completed=162/172 active/queued=8 elapsed=44.5 min
+[163/172] pilot ZCAT20 M=5 D=50 RANDOM seed=0: complete 16.60s
+[LIVE] completed=163/172 active/queued=8 elapsed=45.0 min
+[164/172] pilot ZCAT20 M=5 D=50 ELITE seed=0: complete 16.93s
+[165/172] pilot ZCAT20 M=5 D=50 HV_GATE seed=0: complete 16.87s
+[LIVE] completed=165/172 active/queued=7 elapsed=45.5 min
+[166/172] pilot ZCAT20 M=5 D=50 CROWDING seed=0: complete 15.45s
+[167/172] pilot ZCAT20 M=5 D=50 FULL seed=0: complete 16.91s
+[168/172] pilot ZCAT20 M=5 D=50 NSGA3 seed=0: complete 1.52s
+[169/172] pilot ZCAT20 M=5 D=50 RVEA seed=0: complete 0.87s
+[LIVE] completed=169/172 active/queued=3 elapsed=46.0 min
+[LIVE] completed=169/172 active/queued=3 elapsed=46.4 min
+[LIVE] completed=169/172 active/queued=3 elapsed=46.8 min
+[LIVE] completed=169/172 active/queued=3 elapsed=47.2 min
+[LIVE] completed=169/172 active/queued=3 elapsed=47.6 min
+[LIVE] completed=169/172 active/queued=3 elapsed=48.0 min
+[LIVE] completed=169/172 active/queued=3 elapsed=48.5 min
+[LIVE] completed=169/172 active/queued=3 elapsed=48.9 min
+[LIVE] completed=169/172 active/queued=3 elapsed=49.3 min
+[LIVE] completed=169/172 active/queued=3 elapsed=49.7 min
+[LIVE] completed=169/172 active/queued=3 elapsed=50.1 min
+[LIVE] completed=169/172 active/queued=3 elapsed=50.5 min
+[LIVE] completed=169/172 active/queued=3 elapsed=51.0 min
+[LIVE] completed=169/172 active/queued=3 elapsed=51.4 min
+[LIVE] completed=169/172 active/queued=3 elapsed=51.8 min
+[LIVE] completed=169/172 active/queued=3 elapsed=52.2 min
+[LIVE] completed=169/172 active/queued=3 elapsed=52.6 min
+[LIVE] completed=169/172 active/queued=3 elapsed=53.0 min
+[LIVE] completed=169/172 active/queued=3 elapsed=53.5 min
+[LIVE] completed=169/172 active/queued=3 elapsed=53.9 min
+[LIVE] completed=169/172 active/queued=3 elapsed=54.3 min
+[LIVE] completed=169/172 active/queued=3 elapsed=54.7 min
+[LIVE] completed=169/172 active/queued=3 elapsed=55.1 min
+[LIVE] completed=169/172 active/queued=3 elapsed=55.5 min
+[LIVE] completed=169/172 active/queued=3 elapsed=56.0 min
+[LIVE] completed=169/172 active/queued=3 elapsed=56.4 min
+[LIVE] completed=169/172 active/queued=3 elapsed=56.8 min
+[LIVE] completed=169/172 active/queued=3 elapsed=57.2 min
+[LIVE] completed=169/172 active/queued=3 elapsed=57.6 min
+[LIVE] completed=169/172 active/queued=3 elapsed=58.1 min
+[LIVE] completed=169/172 active/queued=3 elapsed=58.5 min
+[LIVE] completed=169/172 active/queued=3 elapsed=58.9 min
+[LIVE] completed=169/172 active/queued=3 elapsed=59.3 min
+[LIVE] completed=169/172 active/queued=3 elapsed=59.7 min
+[LIVE] completed=169/172 active/queued=3 elapsed=60.1 min
+[LIVE] completed=169/172 active/queued=3 elapsed=60.6 min
+[LIVE] completed=169/172 active/queued=3 elapsed=61.0 min
+[LIVE] completed=169/172 active/queued=3 elapsed=61.4 min
+[LIVE] completed=169/172 active/queued=3 elapsed=61.8 min
+[LIVE] completed=169/172 active/queued=3 elapsed=62.2 min
+[LIVE] completed=169/172 active/queued=3 elapsed=62.6 min
+[LIVE] completed=169/172 active/queued=3 elapsed=63.1 min
+[LIVE] completed=169/172 active/queued=3 elapsed=63.5 min
+[LIVE] completed=169/172 active/queued=3 elapsed=63.9 min
+[LIVE] completed=169/172 active/queued=3 elapsed=64.3 min
+[LIVE] completed=169/172 active/queued=3 elapsed=64.7 min
+[LIVE] completed=169/172 active/queued=3 elapsed=65.1 min
+[LIVE] completed=169/172 active/queued=3 elapsed=65.6 min
+[LIVE] completed=169/172 active/queued=3 elapsed=66.0 min
+[LIVE] completed=169/172 active/queued=3 elapsed=66.4 min
+[LIVE] completed=169/172 active/queued=3 elapsed=66.8 min
+[LIVE] completed=169/172 active/queued=3 elapsed=67.2 min
+[LIVE] completed=169/172 active/queued=3 elapsed=67.6 min
+[LIVE] completed=169/172 active/queued=3 elapsed=68.1 min
+[LIVE] completed=169/172 active/queued=3 elapsed=68.5 min
+[LIVE] completed=169/172 active/queued=3 elapsed=68.9 min
+[LIVE] completed=169/172 active/queued=3 elapsed=69.3 min
+[LIVE] completed=169/172 active/queued=3 elapsed=69.7 min
+[LIVE] completed=169/172 active/queued=3 elapsed=70.1 min
+[LIVE] completed=169/172 active/queued=3 elapsed=70.6 min
+[LIVE] completed=169/172 active/queued=3 elapsed=71.0 min
+[LIVE] completed=169/172 active/queued=3 elapsed=71.4 min
+[LIVE] completed=169/172 active/queued=3 elapsed=71.8 min
+[LIVE] completed=169/172 active/queued=3 elapsed=72.2 min
+[LIVE] completed=169/172 active/queued=3 elapsed=72.6 min
+[LIVE] completed=169/172 active/queued=3 elapsed=73.1 min
+[LIVE] completed=169/172 active/queued=3 elapsed=73.5 min
+[LIVE] completed=169/172 active/queued=3 elapsed=73.9 min
+[170/172] pilot DTLZ2 M=5 D=14 SMS seed=0: complete 4233.47s
+[LIVE] completed=170/172 active/queued=2 elapsed=74.3 min
+[LIVE] completed=170/172 active/queued=2 elapsed=74.8 min
+[LIVE] completed=170/172 active/queued=2 elapsed=75.2 min
+[LIVE] completed=170/172 active/queued=2 elapsed=75.6 min
+[LIVE] completed=170/172 active/queued=2 elapsed=76.0 min
+[LIVE] completed=170/172 active/queued=2 elapsed=76.4 min
+[LIVE] completed=170/172 active/queued=2 elapsed=76.8 min
+[LIVE] completed=170/172 active/queued=2 elapsed=77.3 min
+[LIVE] completed=170/172 active/queued=2 elapsed=77.7 min
+[LIVE] completed=170/172 active/queued=2 elapsed=78.1 min
+[LIVE] completed=170/172 active/queued=2 elapsed=78.5 min
+[LIVE] completed=170/172 active/queued=2 elapsed=78.9 min
+[LIVE] completed=170/172 active/queued=2 elapsed=79.3 min
+[LIVE] completed=170/172 active/queued=2 elapsed=79.8 min
+[LIVE] completed=170/172 active/queued=2 elapsed=80.2 min
+[LIVE] completed=170/172 active/queued=2 elapsed=80.6 min
+[LIVE] completed=170/172 active/queued=2 elapsed=81.0 min
+[LIVE] completed=170/172 active/queued=2 elapsed=81.4 min
+[LIVE] completed=170/172 active/queued=2 elapsed=81.8 min
+[LIVE] completed=170/172 active/queued=2 elapsed=82.3 min
+[LIVE] completed=170/172 active/queued=2 elapsed=82.7 min
+[LIVE] completed=170/172 active/queued=2 elapsed=83.1 min
+[LIVE] completed=170/172 active/queued=2 elapsed=83.5 min
+[LIVE] completed=170/172 active/queued=2 elapsed=83.9 min
+[LIVE] completed=170/172 active/queued=2 elapsed=84.3 min
+[LIVE] completed=170/172 active/queued=2 elapsed=84.8 min
+[LIVE] completed=170/172 active/queued=2 elapsed=85.2 min
+[LIVE] completed=170/172 active/queued=2 elapsed=85.6 min
+[LIVE] completed=170/172 active/queued=2 elapsed=86.0 min
+[LIVE] completed=170/172 active/queued=2 elapsed=86.4 min
+[LIVE] completed=170/172 active/queued=2 elapsed=86.8 min
+[LIVE] completed=170/172 active/queued=2 elapsed=87.3 min
+[LIVE] completed=170/172 active/queued=2 elapsed=87.7 min
+[LIVE] completed=170/172 active/queued=2 elapsed=88.1 min
+[LIVE] completed=170/172 active/queued=2 elapsed=88.5 min
+[LIVE] completed=170/172 active/queued=2 elapsed=88.9 min
+[LIVE] completed=170/172 active/queued=2 elapsed=89.3 min
+[LIVE] completed=170/172 active/queued=2 elapsed=89.8 min
+[LIVE] completed=170/172 active/queued=2 elapsed=90.2 min
+[LIVE] completed=170/172 active/queued=2 elapsed=90.6 min
+[LIVE] completed=170/172 active/queued=2 elapsed=91.0 min
+[171/172] pilot WFG4 M=5 D=28 SMS seed=0: complete 5150.03s
+[LIVE] completed=171/172 active/queued=1 elapsed=91.5 min
+[LIVE] completed=171/172 active/queued=1 elapsed=91.9 min
+[LIVE] completed=171/172 active/queued=1 elapsed=92.3 min
+[LIVE] completed=171/172 active/queued=1 elapsed=92.7 min
+[LIVE] completed=171/172 active/queued=1 elapsed=93.1 min
+[LIVE] completed=171/172 active/queued=1 elapsed=93.6 min
+[LIVE] completed=171/172 active/queued=1 elapsed=94.0 min
+[LIVE] completed=171/172 active/queued=1 elapsed=94.4 min
+[LIVE] completed=171/172 active/queued=1 elapsed=94.8 min
+[LIVE] completed=171/172 active/queued=1 elapsed=95.2 min
+[LIVE] completed=171/172 active/queued=1 elapsed=95.6 min
+[LIVE] completed=171/172 active/queued=1 elapsed=96.1 min
+[LIVE] completed=171/172 active/queued=1 elapsed=96.5 min
+[LIVE] completed=171/172 active/queued=1 elapsed=96.9 min
+[LIVE] completed=171/172 active/queued=1 elapsed=97.3 min
+[LIVE] completed=171/172 active/queued=1 elapsed=97.7 min
+[LIVE] completed=171/172 active/queued=1 elapsed=98.1 min
+[LIVE] completed=171/172 active/queued=1 elapsed=98.6 min
+[LIVE] completed=171/172 active/queued=1 elapsed=99.0 min
+[LIVE] completed=171/172 active/queued=1 elapsed=99.4 min
+[LIVE] completed=171/172 active/queued=1 elapsed=99.8 min
+[LIVE] completed=171/172 active/queued=1 elapsed=100.2 min
+[LIVE] completed=171/172 active/queued=1 elapsed=100.6 min
+[172/172] pilot WFG9 M=5 D=28 SMS seed=0: complete 5602.08s
+[DONE] {'complete': 172}, elapsed=101.01 min

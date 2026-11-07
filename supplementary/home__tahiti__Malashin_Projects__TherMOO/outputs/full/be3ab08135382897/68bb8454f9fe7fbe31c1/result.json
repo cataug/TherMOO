@@ -1,0 +1,50 @@
+{
+  "metrics": {
+    "fe": 100000,
+    "seconds": 7.122065083007328,
+    "sent": 0,
+    "accepted": 0,
+    "payload_bytes": 0,
+    "hv": 0.29698733357298235,
+    "igd_plus": 0.12360481960857483,
+    "profiles": []
+  },
+  "seconds": 7.12863503000699,
+  "initial_hash": "51c884f62d21d4d3cb21116bcc6a3eacf91aff05b19d2b309399efd7d55cdf90",
+  "evaluations": 100000,
+  "sent": 0,
+  "accepted": 0,
+  "payload_bytes": 0,
+  "control_seconds": 0.0,
+  "integration_seconds": 0.0,
+  "diagnostic_seconds": 1.479262164037209,
+  "algorithms": [
+    "RVEA"
+  ],
+  "archive_size": 400,
+  "controller": "explicit heuristic; no neural training",
+  "island_execution": "sequential within trial",
+  "status": "complete",
+  "job": {
+    "problem": "DTLZ7",
+    "method": "RVEA",
+    "seed": 28,
+    "block": "many",
+    "m": 5,
+    "d": 0,
+    "budget": 100000,
+    "population": 400,
+    "islands": 4,
+    "composition": "mixed",
+    "interval": 10,
+    "rho": 0.1,
+    "temperature": 1.0,
+    "quality": "rank_crowding",
+    "ablation": "none",
+    "archive": 400,
+    "hv_epsilon": 0.0001,
+    "js_epsilon": 0.02
+  },
+  "fingerprint": "be3ab08135382897",
+  "run_id": "68bb8454f9fe7fbe31c1"
+}

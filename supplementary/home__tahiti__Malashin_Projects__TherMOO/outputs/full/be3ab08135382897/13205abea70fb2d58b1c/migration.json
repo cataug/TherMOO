@@ -1,0 +1,101 @@
+[
+  {
+    "fe": 32400,
+    "source": 0,
+    "target": 2,
+    "sent": 6,
+    "accepted": 6,
+    "payload_bytes": 1296,
+    "ratio": 0.06652540758465887,
+    "mixing": 0.4020625318384872,
+    "score": 0.70620251561561
+  },
+  {
+    "fe": 44400,
+    "source": 2,
+    "target": 1,
+    "sent": 6,
+    "accepted": 0,
+    "payload_bytes": 1296,
+    "ratio": 0.0615485634167967,
+    "mixing": 0.25,
+    "score": 0.7114616187174132
+  },
+  {
+    "fe": 44400,
+    "source": 1,
+    "target": 2,
+    "sent": 6,
+    "accepted": 6,
+    "payload_bytes": 1296,
+    "ratio": 0.06965290297743447,
+    "mixing": 0.4131585831533905,
+    "score": 0.7365529879413824
+  },
+  {
+    "fe": 60400,
+    "source": 1,
+    "target": 0,
+    "sent": 6,
+    "accepted": 6,
+    "payload_bytes": 1296,
+    "ratio": 0.06977891016539409,
+    "mixing": 0.40776626492451423,
+    "score": 0.7277930724239224
+  },
+  {
+    "fe": 60400,
+    "source": 0,
+    "target": 2,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.07258437185986502,
+    "mixing": 0.32948027731890517,
+    "score": 0.7280532603328937
+  },
+  {
+    "fe": 76400,
+    "source": 2,
+    "target": 1,
+    "sent": 6,
+    "accepted": 0,
+    "payload_bytes": 1296,
+    "ratio": 0.06289250826360464,
+    "mixing": 0.25,
+    "score": 0.7243522531251169
+  },
+  {
+    "fe": 80400,
+    "source": 3,
+    "target": 2,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.07552329685125814,
+    "mixing": 0.7499999999999736,
+    "score": 0.7447558878582012
+  },
+  {
+    "fe": 92400,
+    "source": 3,
+    "target": 1,
+    "sent": 6,
+    "accepted": 1,
+    "payload_bytes": 1296,
+    "ratio": 0.06326964524591426,
+    "mixing": 0.7499999999999827,
+    "score": 0.6945316993927144
+  },
+  {
+    "fe": 96400,
+    "source": 0,
+    "target": 2,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.07210493182886055,
+    "mixing": 0.3141204496932409,
+    "score": 0.6915466047963624
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "fe": 16400,
+    "source": 1,
+    "target": 2,
+    "sent": 5,
+    "accepted": 5,
+    "payload_bytes": 1080,
+    "ratio": 0.05783215632278702,
+    "mixing": 0.635753920494255,
+    "score": 0.7424329837342613
+  },
+  {
+    "fe": 40400,
+    "source": 0,
+    "target": 1,
+    "sent": 6,
+    "accepted": 0,
+    "payload_bytes": 1296,
+    "ratio": 0.0608115238866758,
+    "mixing": 0.3805673217650645,
+    "score": 0.7105026792854284
+  },
+  {
+    "fe": 44400,
+    "source": 0,
+    "target": 2,
+    "sent": 6,
+    "accepted": 6,
+    "payload_bytes": 1296,
+    "ratio": 0.06867944281002274,
+    "mixing": 0.37274667760791624,
+    "score": 0.7687477879665868
+  },
+  {
+    "fe": 68400,
+    "source": 3,
+    "target": 2,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.07257858426365728,
+    "mixing": 0.7499999999999569,
+    "score": 0.760145290899723
+  },
+  {
+    "fe": 76400,
+    "source": 3,
+    "target": 2,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.0725384489535355,
+    "mixing": 0.7499999999999556,
+    "score": 0.8134640131422887
+  },
+  {
+    "fe": 84400,
+    "source": 0,
+    "target": 2,
+    "sent": 7,
+    "accepted": 4,
+    "payload_bytes": 1512,
+    "ratio": 0.07042228597816758,
+    "mixing": 0.25,
+    "score": 0.7156232627055695
+  },
+  {
+    "fe": 88400,
+    "source": 0,
+    "target": 1,
+    "sent": 6,
+    "accepted": 0,
+    "payload_bytes": 1296,
+    "ratio": 0.06491305344384686,
+    "mixing": 0.25,
+    "score": 0.7618540747902594
+  },
+  {
+    "fe": 88400,
+    "source": 1,
+    "target": 2,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.07051942154880306,
+    "mixing": 0.4227723172008726,
+    "score": 0.7153839117970189
+  },
+  {
+    "fe": 96400,
+    "source": 0,
+    "target": 2,
+    "sent": 6,
+    "accepted": 2,
+    "payload_bytes": 1296,
+    "ratio": 0.06765934877218603,
+    "mixing": 0.25,
+    "score": 0.7590136804178071
+  }
+]

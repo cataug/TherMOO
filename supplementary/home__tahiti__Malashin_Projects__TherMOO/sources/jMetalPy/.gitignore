@@ -1,0 +1,24 @@
+.idea
+__pycache__
+build
+dist
+.vscode
+FUN.*
+VAR.*
+.RData
+.Rhistory
+
+# Auto-generated build artifacts
+*.egg-info/
+.coverage
+coverage.xml
+htmlcov/
+/site/
+
+# Generated output from local runs (front plots, summaries, etc.)
+/results/
+.ipynb_checkpoints/
+examples/experiment/boxplot/
+examples/experiment/latex/
+examples/experiment/*.csv
+examples/experiment/*.eps

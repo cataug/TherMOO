@@ -1,0 +1,101 @@
+[
+  {
+    "fe": 56400,
+    "source": 0,
+    "target": 2,
+    "sent": 12,
+    "accepted": 10,
+    "payload_bytes": 3168,
+    "ratio": 0.12515758379847203,
+    "mixing": 0.749999999997943,
+    "score": 0.7364653055963197
+  },
+  {
+    "fe": 64400,
+    "source": 0,
+    "target": 2,
+    "sent": 14,
+    "accepted": 12,
+    "payload_bytes": 3696,
+    "ratio": 0.1447862581327139,
+    "mixing": 0.7499999999979252,
+    "score": 0.6941290741895262
+  },
+  {
+    "fe": 72400,
+    "source": 0,
+    "target": 1,
+    "sent": 14,
+    "accepted": 0,
+    "payload_bytes": 3696,
+    "ratio": 0.1475709970504886,
+    "mixing": 0.7499999999979259,
+    "score": 0.7635615739829279
+  },
+  {
+    "fe": 76400,
+    "source": 0,
+    "target": 1,
+    "sent": 14,
+    "accepted": 0,
+    "payload_bytes": 3696,
+    "ratio": 0.14839106233636354,
+    "mixing": 0.7499999999979596,
+    "score": 0.7669136720201218
+  },
+  {
+    "fe": 80400,
+    "source": 2,
+    "target": 1,
+    "sent": 15,
+    "accepted": 0,
+    "payload_bytes": 3960,
+    "ratio": 0.15211598768268383,
+    "mixing": 0.7248143828909803,
+    "score": 0.7538408303417775
+  },
+  {
+    "fe": 84400,
+    "source": 0,
+    "target": 1,
+    "sent": 14,
+    "accepted": 1,
+    "payload_bytes": 3696,
+    "ratio": 0.1491301229787044,
+    "mixing": 0.7499999999980003,
+    "score": 0.7615121064254295
+  },
+  {
+    "fe": 92400,
+    "source": 0,
+    "target": 2,
+    "sent": 14,
+    "accepted": 14,
+    "payload_bytes": 3696,
+    "ratio": 0.14507315216065392,
+    "mixing": 0.749999999997903,
+    "score": 0.6970027774407463
+  },
+  {
+    "fe": 92400,
+    "source": 0,
+    "target": 3,
+    "sent": 12,
+    "accepted": 7,
+    "payload_bytes": 3168,
+    "ratio": 0.12514930703055166,
+    "mixing": 0.749999999997903,
+    "score": 0.7050329897076892
+  },
+  {
+    "fe": 96400,
+    "source": 2,
+    "target": 0,
+    "sent": 15,
+    "accepted": 7,
+    "payload_bytes": 3960,
+    "ratio": 0.15311031090387517,
+    "mixing": 0.7361574194324485,
+    "score": 0.680063315468217
+  }
+]

@@ -1,0 +1,10 @@
+[GLOBAL] Complete: 8081/33240
+[GLOBAL] Fingerprint: be3ab08135382897
+[NEXT] Selected: 18821; cutoff=300.0s; workers=4
+[DEFERRED] Without timing measurements: 3960
+[DEFERRED] Measured above cutoff: 2378
+[QUEUE] 18821 trials, workers=4, output=full, fingerprint=be3ab08135382897
+[1/18821] main UF4 M=2 D=30 FULL seed=2: locked
+[2/18821] main UF4 M=2 D=30 FULL seed=3: locked
+[3/18821] main UF4 M=2 D=30 FULL seed=4: locked
+[4/18821] main UF4 M=2 D=30 FULL seed=1: locked

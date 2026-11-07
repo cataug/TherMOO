@@ -1,0 +1,57 @@
+[
+  {
+    "fe": 44400,
+    "source": 2,
+    "target": 0,
+    "sent": 3,
+    "accepted": 2,
+    "payload_bytes": 792,
+    "ratio": 0.03696639021498625,
+    "mixing": 0.7338162015274003,
+    "score": 0.7135479280002192
+  },
+  {
+    "fe": 52400,
+    "source": 0,
+    "target": 1,
+    "sent": 3,
+    "accepted": 0,
+    "payload_bytes": 792,
+    "ratio": 0.030960855237612953,
+    "mixing": 0.7499999999964877,
+    "score": 0.7267882165976696
+  },
+  {
+    "fe": 60400,
+    "source": 0,
+    "target": 1,
+    "sent": 3,
+    "accepted": 0,
+    "payload_bytes": 792,
+    "ratio": 0.03758401452807932,
+    "mixing": 0.7499999999964609,
+    "score": 0.7304769871972253
+  },
+  {
+    "fe": 80400,
+    "source": 0,
+    "target": 3,
+    "sent": 3,
+    "accepted": 3,
+    "payload_bytes": 792,
+    "ratio": 0.03480539639748214,
+    "mixing": 0.7499999999964293,
+    "score": 0.7663409846241914
+  },
+  {
+    "fe": 92400,
+    "source": 0,
+    "target": 2,
+    "sent": 3,
+    "accepted": 2,
+    "payload_bytes": 792,
+    "ratio": 0.036632091346587084,
+    "mixing": 0.7366992705241795,
+    "score": 0.6997560065728844
+  }
+]

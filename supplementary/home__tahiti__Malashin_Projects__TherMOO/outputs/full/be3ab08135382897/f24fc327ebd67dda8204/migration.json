@@ -1,0 +1,101 @@
+[
+  {
+    "fe": 64400,
+    "source": 0,
+    "target": 1,
+    "sent": 7,
+    "accepted": 0,
+    "payload_bytes": 1848,
+    "ratio": 0.07643366776038259,
+    "mixing": 0.7398753546627079,
+    "score": 0.6253476748281703
+  },
+  {
+    "fe": 68400,
+    "source": 2,
+    "target": 0,
+    "sent": 8,
+    "accepted": 2,
+    "payload_bytes": 2112,
+    "ratio": 0.08763753092361186,
+    "mixing": 0.6934297354799069,
+    "score": 0.5620458945328477
+  },
+  {
+    "fe": 76400,
+    "source": 2,
+    "target": 3,
+    "sent": 9,
+    "accepted": 5,
+    "payload_bytes": 2376,
+    "ratio": 0.09580876496071195,
+    "mixing": 0.6967418236293152,
+    "score": 0.5608579928977196
+  },
+  {
+    "fe": 84400,
+    "source": 3,
+    "target": 0,
+    "sent": 9,
+    "accepted": 9,
+    "payload_bytes": 2376,
+    "ratio": 0.09169257966588733,
+    "mixing": 0.7499999999970939,
+    "score": 0.5402363436297728
+  },
+  {
+    "fe": 84400,
+    "source": 0,
+    "target": 3,
+    "sent": 9,
+    "accepted": 0,
+    "payload_bytes": 2376,
+    "ratio": 0.09252061676377393,
+    "mixing": 0.7281317130113929,
+    "score": 0.5222112881709562
+  },
+  {
+    "fe": 88400,
+    "source": 0,
+    "target": 3,
+    "sent": 8,
+    "accepted": 3,
+    "payload_bytes": 2112,
+    "ratio": 0.08864168994795017,
+    "mixing": 0.7367577445002732,
+    "score": 0.5412926769174692
+  },
+  {
+    "fe": 96400,
+    "source": 3,
+    "target": 0,
+    "sent": 9,
+    "accepted": 8,
+    "payload_bytes": 2376,
+    "ratio": 0.09115963267636173,
+    "mixing": 0.7499999999971141,
+    "score": 0.5628094688992868
+  },
+  {
+    "fe": 96400,
+    "source": 3,
+    "target": 1,
+    "sent": 7,
+    "accepted": 4,
+    "payload_bytes": 1848,
+    "ratio": 0.07533450739157216,
+    "mixing": 0.7499999999971141,
+    "score": 0.5628094688992868
+  },
+  {
+    "fe": 96400,
+    "source": 3,
+    "target": 2,
+    "sent": 8,
+    "accepted": 8,
+    "payload_bytes": 2112,
+    "ratio": 0.08807653130360596,
+    "mixing": 0.7499999999971141,
+    "score": 0.5628094688992868
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "fe": 36400,
+    "source": 2,
+    "target": 1,
+    "sent": 7,
+    "accepted": 0,
+    "payload_bytes": 1848,
+    "ratio": 0.07413706503252847,
+    "mixing": 0.5802046215190939,
+    "score": 0.7018034702033699
+  },
+  {
+    "fe": 52400,
+    "source": 1,
+    "target": 0,
+    "sent": 8,
+    "accepted": 8,
+    "payload_bytes": 2112,
+    "ratio": 0.08045853058763104,
+    "mixing": 0.25,
+    "score": 0.7120837227405208
+  },
+  {
+    "fe": 68400,
+    "source": 2,
+    "target": 0,
+    "sent": 6,
+    "accepted": 2,
+    "payload_bytes": 1584,
+    "ratio": 0.06663387195910582,
+    "mixing": 0.7499999999958986,
+    "score": 0.6994711679684342
+  },
+  {
+    "fe": 76400,
+    "source": 0,
+    "target": 1,
+    "sent": 7,
+    "accepted": 0,
+    "payload_bytes": 1848,
+    "ratio": 0.07059635862720824,
+    "mixing": 0.7499999999966149,
+    "score": 0.680384705975828
+  },
+  {
+    "fe": 80400,
+    "source": 0,
+    "target": 1,
+    "sent": 5,
+    "accepted": 0,
+    "payload_bytes": 1320,
+    "ratio": 0.05961934723947407,
+    "mixing": 0.7499999999967246,
+    "score": 0.6954978606397944
+  },
+  {
+    "fe": 88400,
+    "source": 1,
+    "target": 2,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1848,
+    "ratio": 0.07380163176068022,
+    "mixing": 0.25,
+    "score": 0.6806018644727716
+  },
+  {
+    "fe": 96400,
+    "source": 1,
+    "target": 0,
+    "sent": 6,
+    "accepted": 6,
+    "payload_bytes": 1584,
+    "ratio": 0.06793736766901148,
+    "mixing": 0.25,
+    "score": 0.6399962939185838
+  },
+  {
+    "fe": 96400,
+    "source": 0,
+    "target": 1,
+    "sent": 5,
+    "accepted": 0,
+    "payload_bytes": 1320,
+    "ratio": 0.05948564230949258,
+    "mixing": 0.7499999999968314,
+    "score": 0.6932329606914196
+  },
+  {
+    "fe": 96400,
+    "source": 2,
+    "target": 3,
+    "sent": 8,
+    "accepted": 3,
+    "payload_bytes": 2112,
+    "ratio": 0.08167537268499181,
+    "mixing": 0.6948359436279175,
+    "score": 0.6662547922931319
+  }
+]

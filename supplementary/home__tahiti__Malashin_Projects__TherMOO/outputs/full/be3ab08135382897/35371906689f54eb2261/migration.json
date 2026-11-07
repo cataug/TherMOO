@@ -1,0 +1,101 @@
+[
+  {
+    "fe": 24400,
+    "source": 0,
+    "target": 2,
+    "sent": 6,
+    "accepted": 6,
+    "payload_bytes": 1296,
+    "ratio": 0.06570656643968929,
+    "mixing": 0.4247156283476115,
+    "score": 0.7440322370142136
+  },
+  {
+    "fe": 56400,
+    "source": 1,
+    "target": 2,
+    "sent": 6,
+    "accepted": 6,
+    "payload_bytes": 1296,
+    "ratio": 0.06917615669511688,
+    "mixing": 0.4065200708195339,
+    "score": 0.8250452808365145
+  },
+  {
+    "fe": 68400,
+    "source": 3,
+    "target": 1,
+    "sent": 6,
+    "accepted": 0,
+    "payload_bytes": 1296,
+    "ratio": 0.06351049229869186,
+    "mixing": 0.7499999999999478,
+    "score": 0.7040497827532354
+  },
+  {
+    "fe": 68400,
+    "source": 3,
+    "target": 2,
+    "sent": 6,
+    "accepted": 6,
+    "payload_bytes": 1296,
+    "ratio": 0.06490525963362258,
+    "mixing": 0.7499999999999478,
+    "score": 0.723873395904369
+  },
+  {
+    "fe": 76400,
+    "source": 1,
+    "target": 0,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.07768054736423036,
+    "mixing": 0.3278972137136477,
+    "score": 0.7108524160069705
+  },
+  {
+    "fe": 88400,
+    "source": 0,
+    "target": 1,
+    "sent": 6,
+    "accepted": 0,
+    "payload_bytes": 1296,
+    "ratio": 0.06510747513073456,
+    "mixing": 0.25,
+    "score": 0.7195462592417797
+  },
+  {
+    "fe": 88400,
+    "source": 3,
+    "target": 2,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.07074129434576935,
+    "mixing": 0.7499999999999472,
+    "score": 0.6969949499273161
+  },
+  {
+    "fe": 96400,
+    "source": 1,
+    "target": 0,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.0755188781539791,
+    "mixing": 0.3252537305358308,
+    "score": 0.699897138619736
+  },
+  {
+    "fe": 96400,
+    "source": 0,
+    "target": 2,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.07278903548503866,
+    "mixing": 0.25,
+    "score": 0.7105121147537924
+  }
+]

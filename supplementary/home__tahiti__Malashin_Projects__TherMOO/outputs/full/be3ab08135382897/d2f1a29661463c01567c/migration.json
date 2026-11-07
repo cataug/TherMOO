@@ -1,0 +1,101 @@
+[
+  {
+    "fe": 16400,
+    "source": 3,
+    "target": 1,
+    "sent": 6,
+    "accepted": 0,
+    "payload_bytes": 1296,
+    "ratio": 0.061370596396658296,
+    "mixing": 0.7499999999998324,
+    "score": 0.7217897287830471
+  },
+  {
+    "fe": 36400,
+    "source": 3,
+    "target": 2,
+    "sent": 6,
+    "accepted": 6,
+    "payload_bytes": 1296,
+    "ratio": 0.06637769418339627,
+    "mixing": 0.7499999999999347,
+    "score": 0.6974083594292808
+  },
+  {
+    "fe": 52400,
+    "source": 0,
+    "target": 1,
+    "sent": 6,
+    "accepted": 0,
+    "payload_bytes": 1296,
+    "ratio": 0.061331186767511085,
+    "mixing": 0.25,
+    "score": 0.7278363709309642
+  },
+  {
+    "fe": 64400,
+    "source": 0,
+    "target": 2,
+    "sent": 7,
+    "accepted": 7,
+    "payload_bytes": 1512,
+    "ratio": 0.07218825845298031,
+    "mixing": 0.25,
+    "score": 0.715222927656156
+  },
+  {
+    "fe": 72400,
+    "source": 0,
+    "target": 2,
+    "sent": 7,
+    "accepted": 4,
+    "payload_bytes": 1512,
+    "ratio": 0.07012889358554368,
+    "mixing": 0.25,
+    "score": 0.8154204211163071
+  },
+  {
+    "fe": 76400,
+    "source": 2,
+    "target": 0,
+    "sent": 7,
+    "accepted": 5,
+    "payload_bytes": 1512,
+    "ratio": 0.07004573602396694,
+    "mixing": 0.2741577502630102,
+    "score": 0.7251648594983144
+  },
+  {
+    "fe": 80400,
+    "source": 1,
+    "target": 2,
+    "sent": 6,
+    "accepted": 6,
+    "payload_bytes": 1296,
+    "ratio": 0.062008282659309515,
+    "mixing": 0.3214194736304369,
+    "score": 0.7371204699818071
+  },
+  {
+    "fe": 88400,
+    "source": 1,
+    "target": 2,
+    "sent": 7,
+    "accepted": 6,
+    "payload_bytes": 1512,
+    "ratio": 0.07404768556348608,
+    "mixing": 0.33157296666635877,
+    "score": 0.7279739104878662
+  },
+  {
+    "fe": 92400,
+    "source": 1,
+    "target": 0,
+    "sent": 7,
+    "accepted": 3,
+    "payload_bytes": 1512,
+    "ratio": 0.0774021928563823,
+    "mixing": 0.33569965973025195,
+    "score": 0.7375248396699269
+  }
+]

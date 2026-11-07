@@ -1,0 +1,52 @@
+[
+  {
+    "fe": 400,
+    "seconds": 0.06462813902180642,
+    "sent": 0,
+    "accepted": 0,
+    "payload_bytes": 0,
+    "hv": 0.0,
+    "igd_plus": 1.002108937695159,
+    "profiles": []
+  },
+  {
+    "fe": 10000,
+    "seconds": 6.821253508038353,
+    "sent": 0,
+    "accepted": 0,
+    "payload_bytes": 0,
+    "hv": 0.242024012227441,
+    "igd_plus": 0.25282369551535,
+    "profiles": []
+  },
+  {
+    "fe": 25200,
+    "seconds": 17.16382276103832,
+    "sent": 0,
+    "accepted": 0,
+    "payload_bytes": 0,
+    "hv": 0.27266833122298767,
+    "igd_plus": 0.213813782401853,
+    "profiles": []
+  },
+  {
+    "fe": 50000,
+    "seconds": 33.9833815190359,
+    "sent": 0,
+    "accepted": 0,
+    "payload_bytes": 0,
+    "hv": 0.28311796716520554,
+    "igd_plus": 0.2071954628036408,
+    "profiles": []
+  },
+  {
+    "fe": 100000,
+    "seconds": 67.91547662601806,
+    "sent": 0,
+    "accepted": 0,
+    "payload_bytes": 0,
+    "hv": 0.32404816804276,
+    "igd_plus": 0.14912443502493902,
+    "profiles": []
+  }
+]

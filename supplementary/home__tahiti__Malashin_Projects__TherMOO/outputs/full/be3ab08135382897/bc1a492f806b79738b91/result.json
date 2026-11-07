@@ -1,0 +1,50 @@
+{
+  "metrics": {
+    "fe": 100000,
+    "seconds": 9.125557149003725,
+    "sent": 0,
+    "accepted": 0,
+    "payload_bytes": 0,
+    "hv": 0.6173574450940892,
+    "igd_plus": 0.06505443080283592,
+    "profiles": []
+  },
+  "seconds": 9.131018921005307,
+  "initial_hash": "f98d97d3a42d17cacdcd90fa955ab50fb0e83f5d9bcf45205e5a961b74eb3d93",
+  "evaluations": 100000,
+  "sent": 0,
+  "accepted": 0,
+  "payload_bytes": 0,
+  "control_seconds": 0.0,
+  "integration_seconds": 0.0,
+  "diagnostic_seconds": 0.03440003501600586,
+  "algorithms": [
+    "NSGA2"
+  ],
+  "archive_size": 211,
+  "controller": "explicit heuristic; no neural training",
+  "island_execution": "sequential within trial",
+  "status": "complete",
+  "job": {
+    "problem": "LZ09_F2",
+    "method": "NSGA2",
+    "seed": 6,
+    "block": "main",
+    "m": 0,
+    "d": 0,
+    "budget": 100000,
+    "population": 400,
+    "islands": 4,
+    "composition": "mixed",
+    "interval": 10,
+    "rho": 0.1,
+    "temperature": 1.0,
+    "quality": "rank_crowding",
+    "ablation": "none",
+    "archive": 400,
+    "hv_epsilon": 0.0001,
+    "js_epsilon": 0.02
+  },
+  "fingerprint": "be3ab08135382897",
+  "run_id": "bc1a492f806b79738b91"
+}
