@@ -1,0 +1,23 @@
+{
+  "mode": "live",
+  "fingerprint": "be3ab08135382897",
+  "source_roots": [
+    "/home/tahiti/TherMOO",
+    "/home/tahiti/Malashin_Projects/TherMOO"
+  ],
+  "cohorts": {
+    "be3ab08135382897": 33095
+  },
+  "cutoff_ns": 1794130711890213953,
+  "version": "v6",
+  "root": "/home/tahiti/TherMOO",
+  "renderer_version": "9.0.0",
+  "status": "COMPLETE",
+  "cutoff_utc": "2026-11-08T09:38:31.890214+00:00",
+  "planned_trials": 33240,
+  "accepted_trials": 33095,
+  "figure_limit": 18,
+  "created_figures": 18,
+  "figures": "/home/tahiti/TherMOO/FIGURES/v6",
+  "finished_utc": "2026-11-08T09:40:32.469889+00:00"
+}
